@@ -18,3 +18,4 @@ tqdm==4.64.0
 mmcv==1.6.2
 -f https://shi-labs.com/natten/wheels/cu117/torch1.13/index.html
 natten==0.14.4
+torch==1.13.1+cu117
